@@ -1,0 +1,9 @@
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\obj\Debug\UnityVS.Maze AStar.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\obj\Debug\Assembly-CSharp.dll
+C:\Users\Andrew\OneDrive\Programming\Unity\AI\Maze AStar\obj\Debug\Assembly-CSharp.pdb
